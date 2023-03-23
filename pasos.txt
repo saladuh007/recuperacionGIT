@@ -1,0 +1,19 @@
+Ejercicio 2. VSCode y Repositorio remoto. (3,5 ptos.)
+A partir de tu repositorio recuperacionGIT y utilizando VS Code:
+1. Haz el primer commit y push para añadir todos los ficheros actuales.
+2. Comprueba que este todo en Github.
+3. En una rama nueva, crea un recu.md con el contenido: "Recuperación Git"
+4. Visualiza el estado del repositorio local
+5. Añade el recu.md a la zona de intercambio.
+6. Modifícalo y añade una nueva línea con tu numero de expediente.
+7. Visualiza el estado de nuevo.
+8. Confirma en el repositorio local.
+9. Publica los cambios en el repositorio remoto.
+10. Visualiza un grafo con todas las ramas.
+11. Vuelve a la rama principal y crea un fichero llamado pasos.txt donde pongas los
+pasos de este ejercicio.
+12. Confirma en el repositorio local.
+13. Publica los cambios en el repositorio remoto.
+14. Para terminar fusiona las dos ramas para quedarte solo con la principal, tanto en
+local como en el repositorio remoto.
+15. Visualiza el grafo con todos los commits desde VS Code .
